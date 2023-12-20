@@ -17,8 +17,8 @@ SQL injection (SQLi) is a common web security vulnerability that allows attacker
 
 + ### **User Input:**
 
-      Attackers often exploit vulnerabilities in applications that directlyincorporate user-supplied data into SQL queries without
-      proper validation or sanitization.
+      Attackers often exploit vulnerabilities in applications that directlyincorporate user-supplied data into SQL
+      queries without proper validation or sanitization.
 
 + ### **Error Messages:**
 
